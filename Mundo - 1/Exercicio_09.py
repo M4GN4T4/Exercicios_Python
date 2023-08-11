@@ -1,0 +1,89 @@
+n =int(input('Digite um número:'))
+#Adição
+s1 = n + 1
+s2 = n + 2
+s3 = n + 3
+s4 = n + 4
+s5 = n + 5
+s6 = n + 6
+s7 = n + 7
+s8 = n + 8
+s9 = n + 9
+s10 = n + 10
+#Subtração
+su1 = n - 1
+su2 = n - 2
+su3 = n - 3
+su4 = n - 4
+su5 = n - 5
+su6 = n - 6
+su7 = n - 7
+su8 = n - 8
+su9 = n - 9
+su10 = n - 10
+#Multiplicação
+m1 = n * 1
+m2 = n * 2
+m3 = n * 3
+m4 = n * 4
+m5 = n * 5
+m6 = n * 6
+m7 = n * 7
+m8 = n * 8
+m9 = n * 9
+m10 = n * 10
+#Divisão
+d1 = n / 1
+d2 = n / 2
+d3 = n / 3
+d4 = n / 4
+d5 = n / 5
+d6 = n / 6
+d7 = n / 7
+d8 = n / 8
+d9 = n / 9
+d10 = n / 10
+print('Soma:')
+print(f'{n} + 1 ={s1}')
+print(f'{n} + 2 ={s2}')
+print(f'{n} + 3 ={s3}')
+print(f'{n} + 4 ={s4}')
+print(f'{n} + 5 ={s5}')
+print(f'{n} + 6 ={s6}')
+print(f'{n} + 7 ={s7}')
+print(f'{n} + 8 ={s8}')
+print(f'{n} + 9 ={s9}')
+print(f'{n} + 10 ={s10}')
+print('Multiplicação:')
+print(f'{n} * 1 ={m1}')
+print(f'{n} * 2 ={m2}')
+print(f'{n} * 3 ={m3}')
+print(f'{n} * 4 ={m4}')
+print(f'{n} * 5 ={m5}')
+print(f'{n} * 6 ={m6}')
+print(f'{n} * 7 ={m7}')
+print(f'{n} * 8 ={m8}')
+print(f'{n} * 9 ={m9}')
+print(f'{n} * 10 ={m10}')
+print('Subtração:')
+print(f'{n} - 1 ={su1}')
+print(f'{n} - 2 ={su2}')
+print(f'{n} - 3 ={su3}')
+print(f'{n} - 4 ={su4}')
+print(f'{n} - 5 ={su5}')
+print(f'{n} - 6 ={su6}')
+print(f'{n} - 7 ={su7}')
+print(f'{n} - 8 ={su8}')
+print(f'{n} - 9 ={su9}')
+print(f'{n} - 10 ={su10}')
+print('Divisão:')
+print(f'{n} / 1 ={d1}')
+print(f'{n} / 2 ={d2}')
+print(f'{n} / 3 ={d3}')
+print(f'{n} / 4 ={d4}')
+print(f'{n} / 5 ={d5}')
+print(f'{n} / 6 ={d6}')
+print(f'{n} / 7 ={d7}')
+print(f'{n} / 8 ={d8}')
+print(f'{n} / 9 ={d9}')
+print(f'{n} / 10 ={d10}')
